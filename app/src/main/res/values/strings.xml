@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Workout App</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_place">Place</string>
+    <string name="hint_start_time">Start Time</string>
+    <string name="hint_end_time">End Time</string>
+    <string name="but_save">Save</string>
+    <string name="but_update">Update</string>
+    <string name="but_delete">Delete</string>
+    <string name="activity">Activity Type</string>
+    <string name="activity_individual">Individual</string>
+    <string name="activity_group">Group</string>
+</resources>

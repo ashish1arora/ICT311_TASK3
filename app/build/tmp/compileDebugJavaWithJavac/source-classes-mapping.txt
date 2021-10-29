@@ -1,0 +1,10 @@
+com/usc/workoutapp/database/DaoAccess_Impl.java
+ com.usc.workoutapp.database.DaoAccess_Impl
+ com.usc.workoutapp.database.DaoAccess_Impl$1
+ com.usc.workoutapp.database.DaoAccess_Impl$2
+ com.usc.workoutapp.database.DaoAccess_Impl$3
+com/usc/workoutapp/database/DBHandler_Impl.java
+ com.usc.workoutapp.database.DBHandler_Impl
+ com.usc.workoutapp.database.DBHandler_Impl$1
+com/usc/workoutapp/BuildConfig.java
+ com.usc.workoutapp.BuildConfig

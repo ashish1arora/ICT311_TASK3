@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_new.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\drawable\\ic_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\layout_item_activity.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\layout\\item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_activity_details.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\layout\\fragment_activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_activity_list.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\layout\\fragment_activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\ICT311_TASK3\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    }
+]
